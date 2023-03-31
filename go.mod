@@ -1,3 +1,3 @@
 module github.com/roads001/testmod
 
-go 1.19
+go 1.20
